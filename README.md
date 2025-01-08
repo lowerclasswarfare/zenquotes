@@ -7,6 +7,7 @@ Right now it only prints the quote of the day. I'm planning to add random, and q
 ## Quick Start
 
 git clone https://github.com/lowerclasswarfare/zenquotes.git \
+go get https://github.com/charmbracelet/lipgloss \
 go build zenquotes.go \
 ./zenquotes \
 ??? \
